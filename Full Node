@@ -533,6 +533,8 @@ e controllare che in locale sia connesso Wasabi ( "subver": "/Wasabi:2.0.3.0/" )
 -Per selezonare gli utxo singoli:
 		ctrl+c+d
 
+N.B. Da Giugno 2024 il coordinatore di default per il coinjoin non é piú zkSNACKs ma potete cambiarlo nelle impostazioni e sceglierlo dalla lista su:
+	https://wabisator.com/
 
 
 		Connettere BitBox 02 al FullNode
