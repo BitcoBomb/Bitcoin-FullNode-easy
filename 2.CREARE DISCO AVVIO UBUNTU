@@ -1,0 +1,24 @@
+# **2.CREARE UN DISCO DI AVVIO DI UBUNTU SERVER SU USB**
+
+DA PC
+- Creare una nuova cartella e scaricare dal sito ufficiale di Ubuntu la versione server:
+    https://ubuntu.com/download/server
+(Sul sito selezionare l’opzione "manual installation" e cliccare sul link per il download).
+
+- Inserire la chiave USB (deve essere vuota e/o formattata precedentemente).
+
+- Per creare il boot su USB, utilizzeremo un’applicazione chiamata Balena Etcher.
+Se non avete Balena Etcher, scaricatelo dal sito ufficiale:
+    https://etcher.balena.io/
+
+- Andare nella cartella dei download ed estrarre il file zippato (tasto destro → Extract Here). 
+Questo cambierà il file e lo trasformerà in un'AppImage.
+
+- Assegnare i permessi di esecuzione: tasto destro sull'icona, selezionare "Properties", poi la scheda 
+"Permissions", e spuntare la casella "Allow executing file as a program" nella sezione "Execute".
+
+- Aprire Balena Etcher facendo doppio clic sull'icona dell'app.
+Nella schermata iniziale, selezionare "Flash from File", cercare il file di "Ubuntu server", selezionare 
+la chiavetta USB e infine cliccare su "Flash".
+Vi verrà chiesta la password.
+Inizierà così la scrittura (tutto ciò che è presente sulla USB verrà cancellato, attenzione!).
