@@ -1,6 +1,6 @@
 # **Full Node Bitcoin facile facile**
 
-Ci sono diverse guide in italiano e in inglese che spiegano come installare un Full Node, tuttavia, sono abbastanza tecniche e danno per scontato molte cose. Non essendo un programmatore, ho fatto fatica a trovare tutto il necessario (e a capirlo!). Ho pensato che anche altri potessero trovarsi in difficoltà e, di conseguenza, rinunciare all'opportunità di crescita personale che questo processo comporta. :)
+Ci sono diverse guide in italiano e in inglese che spiegano come installare un Full Node, tuttavia, sono abbastanza tecniche e danno per scontato molte cose. Non essendo un programmatore, ho fatto fatica a trovare tutto il necessario (e a capirlo!). Ho pensato che anche altri potessero trovarsi in difficoltà e, di conseguenza, decidere di rinunciare all'opportunità di crescita personale che questo processo comporta. :)
 
 Anche per questo motivo, ho deciso di scrivere una guida molto semplice che segua, passo dopo passo, tutte le fasi necessarie, in modo che chiunque, indipendentemente dal proprio livello di competenza informatica, possa configurare autonomamente il proprio Full Node.
 
