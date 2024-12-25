@@ -18,4 +18,4 @@ e da altri forum/siti web (molti in Inglese).
 OVVIAMENTE dovete fare delle vostre ricerche e guardare altro materiale, perché la tecnologia è sempre in continua evoluzione. 
 Questa guida vuole essere un aiuto e deve essere considerata la base da cui partire.
 
-siete pronti? BENE partiamo >>> [1.OCCORRENTE](OCCORRENTE.md)
+siete pronti? BENE partiamo >>> [1.OCCORRENTE](1.OCCORRENTE.md)
