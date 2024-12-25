@@ -14,6 +14,7 @@ dalla guida in Italiano di Filippone:
 [https://github.com/Fillippone/NodoBitcoinforDummies/blob/master/07.Bitcoin.md](https://github.com/Fillippone/NodoBitcoinforDummies) 
 
 e da altri forum/siti web (molti in Inglese). 
-Attenzione: OVVIAMENTE dovete fare delle vostre ricerche e guardare altro materiale, perché la tecnologia è sempre in continua evoluzione. 
+
+OVVIAMENTE dovete fare delle vostre ricerche e guardare altro materiale, perché la tecnologia è sempre in continua evoluzione. 
 Questa guida vuole essere un aiuto e deve essere considerata la base da cui partire.
 
